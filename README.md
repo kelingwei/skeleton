@@ -42,9 +42,13 @@ Tair是一个Key/Value结构数据的解决方案，它默认支持基于内存�
 
 地址：https://github.com/alibaba/tair
 
+### 9、消息中间件 Apache RocketMQ
 
-### 8、系统信息采集和监控工具 Tsar
+RocketMQ 是一款分布式、队列模型的消息中间件，具有以下特点：
 
+地址：https://github.com/apache/rocketmq/
+
+### 10、系统信息采集和监控工具 Tsar
 Tsar是淘宝的采集工具，主要用来收集服务器的系统信息（如cpu，io，mem，tcp等）以及应用数据（如squid haproxy nginx等），tsar支持实时查看和历史查看，方便了解应用和服务器的信息!
 
 地址：https://github.com/alibaba/tsar
